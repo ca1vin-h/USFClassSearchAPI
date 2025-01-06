@@ -2,4 +2,4 @@ This software is written for a fastapi server to serve the USF schedule planner 
 
 An example of this server can be found at http://18.208.228.65:8080/docs#/default/get_course_get_course_get. Try it out by setting P_Semester to 202408, P_SUBJ to ENC, and P_NUM to 1101. Additional valid parameters can be found in /validFormData
 
-NOTE: if you try out the API, please be sure to click the "Try it out" button before typing information into the fields.
+NOTE: if you try out the API, please be sure to click the "Try it out" button before typing information into the fields. 
